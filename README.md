@@ -42,13 +42,6 @@ Mira **Despliegue** para conocer cómo desplegar el proyecto.
 - HTML, CSS y JavaScript puros.
 - Diseño responsivo con estilos personalizados.
 
-## 🖇️ Contribuyendo
-
-Por favor, lee el [CONTRIBUTING.md](https://github.com/BabiLener/amigo_secreto/CONTRIBUTING.md) para detalles sobre el proceso para enviarnos pull requests.
-
-## 📖 Wiki
-
-Puedes encontrar más detalles sobre cómo utilizar este proyecto en nuestra [Wiki](https://github.com/BabiLener/amigo_secreto/wiki).
 
 
 ## ✒️ Autores
