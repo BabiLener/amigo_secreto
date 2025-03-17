@@ -46,8 +46,6 @@ Mira **Despliegue** para conocer cómo desplegar el proyecto.
 
 ## ✒️ Autores
 
-- **BabiLener** - *Desarrollador Principal* - [tu-usuario](https://github.com/BabiLener)
-
 ⌨️ con ❤️ por [BabiLener](https://github.com/BabiLener) 😊
 
 
